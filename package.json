@@ -1,0 +1,12 @@
+{
+	"schema_version": "1.0",
+	"name" : "eemp3_info",
+	"label": "EEmp3 Info",
+	"version": "0.0.1",
+	"types": ["module"],
+	"paths": {
+		"system": [
+			"system/expressionengine/third_party/eemp3_info"
+		]
+	}
+}
